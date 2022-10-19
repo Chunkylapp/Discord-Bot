@@ -1,0 +1,33 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "discordbotretarded",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "idkimtiredlol",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-opus": "^0.3.3",
+    "ytdl-core": "^3.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chunkylapp/DiscordBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Chunkylapp/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Chunkylapp/DiscordBot#readme"
+}
